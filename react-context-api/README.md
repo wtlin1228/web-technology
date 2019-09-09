@@ -17,3 +17,8 @@
 ## Context API with hooks
 
 用 Consumer 取值的時候只需要用 useContext(ContextName) 就可以拿到 Context 的 value，避免了 **Context Hell**。
+
+## 使用方法
+
+1. `$ yarn install`
+2. `$ yarn start`
