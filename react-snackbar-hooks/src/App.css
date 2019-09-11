@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App .buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App .buttons > *{
+  margin: 10px;
+}
