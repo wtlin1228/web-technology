@@ -7,5 +7,6 @@
 + react-intl：使用 react-intl 實作多語系網站
 + react-router-breadcrumb：使用 react-router-config 打造通用的麵包屑元件
 + react-snackbar-hooks：使用 context & hooks 打造通用的 snackbar 元件
++ redux-simple：純粹的 Redux
 + service-worker：使用 service worker 打造自己的快取機制
 
