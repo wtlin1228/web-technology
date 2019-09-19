@@ -7,6 +7,7 @@
 + react-intl：使用 react-intl 實作多語系網站
 + react-router-breadcrumb：使用 react-router-config 打造通用的麵包屑元件
 + react-snackbar-hooks：使用 context & hooks 打造通用的 snackbar 元件
++ react-with-oauth：使用 google auth2，做第三方認證
 + react-with-react-router-dom：比較不同 Router 的用法，以及 Always shown component
 + react-with-redux：在 React 中使用 Redux
 + react-with-redux-saga：在 React 中使用 Redux，以及 Redux Middleware - redux-saga
