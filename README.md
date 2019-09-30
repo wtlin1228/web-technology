@@ -2,13 +2,14 @@
 
 + go-graphql-server：使用 Golang 建立一個 GraphQL API Server
 + javascript30：觀看 javascript30 的筆記
++ node-auth-server：使用 Node 從零打造一個 auth server
 + react-context-api：使用 useContext，以及避免 Context Hell
 + react-graphql-hooks：在 React 中使用 Hooks 和 GraphQL API Server 溝通
-+ react-hoc：在 react 裡面使用 higher order components
++ react-hoc：在 React 裡面使用 higher order components
 + react-intl：使用 react-intl 實作多語系網站
 + react-router-breadcrumb：使用 react-router-config 打造通用的麵包屑元件
 + react-snackbar-hooks：使用 context & hooks 打造通用的 snackbar 元件
-+ react-testing：使用 jest 做 react 的 components, actions, reducers unit/integration test
++ react-testing：使用 jest 做 React 的 components, actions, reducers unit/integration test
 + react-with-oauth：使用 google auth2，做第三方認證
 + react-with-react-router-dom：比較不同 Router 的用法，以及 Always shown component
 + react-with-redux：在 React 中使用 Redux
