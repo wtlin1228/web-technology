@@ -2,7 +2,8 @@
 
 + go-graphql-server：使用 Golang 建立一個 GraphQL API Server
 + javascript30：觀看 javascript30 的筆記
-+ node-auth-server：使用 Node 從零打造一個 auth server
++ node-auth-server：使用 Node 打造一個 auth server
++ react-auth-client：使用 React 打造一個 auth client
 + react-context-api：使用 useContext，以及避免 Context Hell
 + react-graphql-hooks：在 React 中使用 Hooks 和 GraphQL API Server 溝通
 + react-hoc：在 React 裡面使用 higher order components
