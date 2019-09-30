@@ -6,7 +6,8 @@ A server for auth purpose.
 
 1. `$ npm install`
 2. open your mongodb
-3. `$ npm run start`
+3. create a `config.js`
+4. `$ npm run start`
 
 ### 功能
 
