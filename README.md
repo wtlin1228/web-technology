@@ -8,6 +8,7 @@
 + react-graphql-hooks：在 React 中使用 Hooks 和 GraphQL API Server 溝通
 + react-hoc：在 React 裡面使用 higher order components
 + react-intl：使用 react-intl 實作多語系網站
++ react-life-cycle：使用 React 的 life cycle methods
 + react-router-breadcrumb：使用 react-router-config 打造通用的麵包屑元件
 + react-snackbar-hooks：使用 context & hooks 打造通用的 snackbar 元件
 + react-testing：使用 jest 做 React 的 components, actions, reducers unit/integration test
