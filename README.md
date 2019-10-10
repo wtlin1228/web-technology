@@ -13,6 +13,7 @@
 + react-router-breadcrumb：使用 react-router-config 打造通用的麵包屑元件
 + react-snackbar-hooks：使用 context & hooks 打造通用的 snackbar 元件
 + react-testing：使用 jest 做 React 的 components, actions, reducers unit/integration test
++ react-use-effect：自製 Custom Hooks
 + react-with-oauth：使用 google auth2，做第三方認證
 + react-with-react-router-dom：比較不同 Router 的用法，以及 Always shown component
 + react-with-redux：在 React 中使用 Redux
