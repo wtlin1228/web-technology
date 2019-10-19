@@ -7,6 +7,7 @@
 + react-auth-client：使用 React 打造一個 auth client
 + react-context-api：使用 useContext，以及避免 Context Hell
 + react-context-theme：用 Context API 來做個調色盤
++ react-error-boundary：自製一個 Error boundary, 然後針對 error 再去發給自己的 issue system, ex: Sentry
 + react-graphql-hooks：在 React 中使用 Hooks 和 GraphQL API Server 溝通
 + react-hoc：在 React 裡面使用 higher order components
 + react-intl：使用 react-intl 實作多語系網站
