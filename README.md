@@ -2,8 +2,7 @@
 
 + AlgoCasts：收集一些演算法題目與解法
 + go-graphql-server：使用 Golang 建立一個 GraphQL API Server
-+ indexedDB： 使用 client-side storage indexedDB 的範例
-+ javascript30：觀看 javascript30 的筆記
++ indexedDB： 使用 client-side storage indexedDB 的範例
 + node-auth-server：使用 Node 打造一個 auth server
 + react-auth-client：使用 React 打造一個 auth client
 + react-context-api：使用 useContext，以及避免 Context Hell
